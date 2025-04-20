@@ -15,10 +15,58 @@ This playbook bridges the gap between technical implementation and strategic ove
 | Folder | Description |
 |--------|-------------|
 | `incident-response/` | Response templates, playbooks, and crisis simulations |
-| `risk-register/` | Sample risk registers and scoring methodology |
-| `scripts/` | PowerShell, Bash, and Python snippets for common tasks |
-| `frameworks/` | Zero Trust mappings, NIST alignment, and implementation notes |
-| `policies/` | Sample access control, user management, and security policies |
+| `risk-register/` | Sample enterprise risk register with scoring, ownership, and mitigation strategies |
+| `frameworks/` | Zero Trust Architecture strategy guide with implementation roadmap |
+
+---
+
+## Incident Response Template
+
+This template outlines a structured approach to identifying, containing, resolving, and learning from cybersecurity incidents.
+
+**Key elements include:**
+- Classification of severity and scope
+- Containment, eradication, and recovery steps
+- Documentation for lessons learned and future prevention
+- Appendix for logs, artifacts, and timelines
+
+ [View the template](./incident-response/IR_Template.md)
+
+This showcases your ability to lead under pressure and document operational processes.
+
+---
+
+## Risk Register Template
+
+This Excel-based template demonstrates risk-based decision-making using a structured scoring model (Likelihood x Impact) with clear ownership and mitigation tracking.
+
+**Key features include:**
+- Risk ID and detailed descriptions
+- Likelihood & impact scoring (1–5 scale)
+- Automated risk score (LxI)
+- Assigned owners
+- Residual risk evaluation
+
+ [View the template](./risk-register/Risk_Register_Template.xlsx)
+
+This format mirrors real-world tools used by CISOs and enterprise security teams for prioritizing and tracking organizational risk.
+
+---
+
+## Zero Trust Implementation Guide
+
+This document outlines a high-level strategy for implementing Zero Trust Architecture (ZTA) in mission-critical environments.
+
+**Key elements include:**
+- Protect surface identification
+- Microsegmentation design
+- Role-based access controls (RBAC/ABAC)
+- Identity-aware network architecture
+- Continuous monitoring and behavior analysis
+
+ [View the guide](./frameworks/zero_trust_implementation.md)
+
+This demonstrates executive-level understanding of modern security frameworks and the ability to translate them into actionable architecture.
 
 ---
 

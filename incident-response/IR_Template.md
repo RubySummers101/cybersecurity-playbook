@@ -4,7 +4,7 @@ This document outlines a repeatable process for responding to cybersecurity inci
 
 ---
 
-## 🔍 1. Incident Identification
+## 1. Incident Identification
 
 - **Date/Time Detected:** [Insert timestamp]
 - **Detection Source:** [SIEM, SOC, User report, etc.]
@@ -13,7 +13,7 @@ This document outlines a repeatable process for responding to cybersecurity inci
 
 ---
 
-## 🚦 2. Incident Classification
+## 2. Incident Classification
 
 - **Severity Level:** [Low / Medium / High / Critical]
 - **Type:** [Phishing / Malware / Insider Threat / DDoS / Unauthorized Access]
@@ -21,7 +21,7 @@ This document outlines a repeatable process for responding to cybersecurity inci
 
 ---
 
-## 🛡 3. Containment Strategy
+## 3. Containment Strategy
 
 - **Short-Term (Immediate):**
   - [e.g., Disconnect affected machines, disable accounts]
@@ -31,7 +31,7 @@ This document outlines a repeatable process for responding to cybersecurity inci
 
 ---
 
-## 🔧 4. Eradication Plan
+## 4. Eradication Plan
 
 - **Root Cause Identified:** [Yes/No + Description]
 - **Actions Taken:** [Remove malware, revoke access, etc.]
@@ -39,7 +39,7 @@ This document outlines a repeatable process for responding to cybersecurity inci
 
 ---
 
-## 🔄 5. Recovery Steps
+## 5. Recovery Steps
 
 - **Systems Restored:** [List with timestamps]
 - **Monitoring in Place:** [SIEM rules, EDR sensors, etc.]
@@ -47,7 +47,7 @@ This document outlines a repeatable process for responding to cybersecurity inci
 
 ---
 
-## 📘 6. Lessons Learned
+## 6. Lessons Learned
 
 - **Summary:** [What happened, how it was resolved]
 - **Prevention Measures:** [Future safeguards]

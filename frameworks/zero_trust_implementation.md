@@ -4,13 +4,13 @@ This document provides a high-level roadmap for implementing a Zero Trust Archit
 
 ---
 
-## 🔍 What is Zero Trust?
+## What is Zero Trust?
 
 Zero Trust is a cybersecurity model based on the principle of **"never trust, always verify"** — assuming that threats can exist both inside and outside the network. It requires strict identity verification, least privilege access, and continuous monitoring of all users, devices, and systems.
 
 ---
 
-## 🛠 Implementation Framework
+## Implementation Framework
 
 ### 1. **Identify Protect Surfaces**
 - Classify critical data, assets, applications, and services (DAAS)
@@ -37,7 +37,7 @@ Zero Trust is a cybersecurity model based on the principle of **"never trust, al
 
 ---
 
-## 🔐 Technology Pillars
+## Technology Pillars
 
 | Pillar | Focus |
 |--------|-------|
@@ -58,7 +58,7 @@ Zero Trust is a cybersecurity model based on the principle of **"never trust, al
 
 ---
 
-## 📈 Metrics for Success
+## Metrics for Success
 
 - Reduced lateral movement incidents
 - Increased MFA adoption
@@ -67,7 +67,7 @@ Zero Trust is a cybersecurity model based on the principle of **"never trust, al
 
 ---
 
-## ✅ Strategic Considerations
+## Strategic Considerations
 
 - Zero Trust is a **journey**, not a product
 - Align with executive leadership and risk tolerance
